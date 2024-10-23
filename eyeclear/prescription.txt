@@ -1,0 +1,108 @@
+
+prescription id: 196
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn Street, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:39:31 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 1.0
+
+prescription id: 661
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:39:31 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 180.0
+
+prescription id: 857
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:39:31 AEDT 2024
+sphere: 18.569244
+cylinder:-2.5362787
+axis: 57.258564
+
+prescription id: 421
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn Street, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:45 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 1.0
+
+prescription id: 448
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:46 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 180.0
+
+prescription id: 853
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:46 AEDT 2024
+sphere: -13.177323
+cylinder:2.1647754
+axis: 76.167946
+
+prescription id: 548
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn Street, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:55 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 1.0
+
+prescription id: 204
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:55 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 180.0
+
+prescription id: 69
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:40:55 AEDT 2024
+sphere: 11.563492
+cylinder:2.2699585
+axis: 130.75449
+
+prescription id: 378
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn Street, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:41:03 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 1.0
+
+prescription id: 397
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:41:03 AEDT 2024
+sphere: 1.0
+cylinder:1.0
+axis: 180.0
+
+prescription id: 924
+name:Jeffersen Simanjuntak
+address: 121 Rosslyn st, West Melbourne
+optometrist: optsnamesohng
+date: Wed Oct 23 13:41:03 AEDT 2024
+sphere: -11.799162
+cylinder:2.4052467
+axis: 100.73734

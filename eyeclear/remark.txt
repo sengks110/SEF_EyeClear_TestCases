@@ -1,0 +1,32 @@
+
+prescription id: 1
+remark type: Client
+remark:This is a remark
+
+prescription id: 3
+remark type: Client
+remark:This is a remark
+
+prescription id: 4
+remark type: Optometrist
+remark:This is a remark
+
+prescription id: 7
+remark type: Optometrist
+remark:This is a remark
+
+prescription id: 7
+remark type: Optometrist
+remark:This is a remark
+
+prescription id: 10
+remark type: Optometrist
+remark:This is a remark
+
+prescription id: 10
+remark type: Optometrist
+remark:This is a remark
+
+prescription id: 9
+remark type: Client
+remark:This is a remark
