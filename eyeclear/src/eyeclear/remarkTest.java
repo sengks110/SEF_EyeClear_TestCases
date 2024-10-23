@@ -46,7 +46,7 @@ class remarkTest {
 		
 	}
 	
-	@Test //if the Remark type is optometrist
+	@Test //if the Remark type is Optometrist
 	void test4() throws IOException {
 		
 		Prescription presc = new Prescription();
@@ -59,27 +59,28 @@ class remarkTest {
 		
 	}
 	
-	@Test //if the Remark type is optometrist
-	void test5() throws IOException {
+	@Test //using a lowercase letter for remark
+		
+		void test5() throws IOException {
 		
 		Prescription presc = new Prescription();
 		
 		presc.setPrescId(005);
-		presc.setRemarkType("Optometrist");
+		presc.setRemarkType("optometrist");
 		presc.setRemarks("this is a remark");
 		
 		assertFalse(presc.addRemark());
 		
 	}
 	
-	@Test //if the Remark type is optometrist
+	@Test //if the Remark type is not valid
 	void test6() throws IOException {
 		
 		Prescription presc = new Prescription();
 		
 		presc.setPrescId(006);
-		presc.setRemarkType("Optometrist");
-		presc.setRemarks("this is a remark");
+		presc.setRemarkType("notaClient");
+		presc.setRemarks("This is a remark");
 		
 		assertFalse(presc.addRemark());
 		
@@ -101,7 +102,7 @@ class remarkTest {
 		
 	}
 	
-	@Test //if the remark is made more than 2 times then made remark for another id
+	@Test //Test with printing remark 3 times, and added a new remark with new prescID
 	void test8() throws IOException {
 		
 		Prescription presc = new Prescription();
@@ -125,3 +126,4 @@ class remarkTest {
 
 
 }
+
